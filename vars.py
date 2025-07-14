@@ -3,9 +3,9 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "xxxxxxxxx"))
-API_HASH = environ.get("API_HASH", "xxxxxxxxxxxxxxxxxxxxxxx")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+API_ID = int(environ.get("API_ID", "28227907"))
+API_HASH = environ.get("API_HASH", "bc3acb5bd0282fe4fd076cec1f24df62")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8090808760:AAHe3rWvTi4dAr528cWk8ogOC8tGZaMiS7k")
 
 OWNER = int(environ.get("OWNER", "5680454765"))
 CREDIT = environ.get("CREDIT", "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎")
